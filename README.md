@@ -6,6 +6,6 @@ of concepts or tests, along with a couple test demos and games.
 
 The game can be played in any half decent NES emulator or on real hardware using the vixy.nes ROM.
 
-Builds using CC65/CA65
-There is an included build file, but the file paths may need to be edited (the .bat file is really short)
+Builds using CC65/CA65.
+There is an included build file, but the file paths may need to be edited (the .bat file is really short).
 Most of the source code is a little messy, but its not unruly by any means and is fairly well commented.
